@@ -1,5 +1,5 @@
 import sqlite3
-db = sqlite3.connect('C:\\Users\\Martyna\\Desktop\\database assigment\\assigment_db.db')
+db = sqlite3.connect('QHO429.db')
 
 # ---------------------------------------------------------------------------- #
 #                                    PART A                                    #
